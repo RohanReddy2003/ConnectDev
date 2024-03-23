@@ -1,0 +1,37 @@
+{% extends 'main.html' %}
+
+{% block content %}
+
+<!-- <h1>Project form</h1>
+<form method="POST" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{form.as_p}}
+    <input type="submit">
+
+</form>
+ -->
+
+    <!-- Main Section -->
+    <main class="formPage my-xl">
+        <div class="content-box">
+            <div class="formWrapper">
+                <a class="backButton" href="{% url 'projects' %}"><i class="im im-angle-left"></i>back</a>
+                <h1>Add Projects here</h1>
+                
+
+                <form class="form" method="POST" enctype="multipart/form-data">
+                    <!-- Input:Text -->
+                    <div class="form__field">
+                        {% csrf_token %}
+                        {% for field in form %}
+                        <label for="formInput#text">{{field.label}}</label>
+                        {{field}}
+                        {% endfor %}
+                    </div>
+                    <input class="btn btn--sub btn--lg  my-md" type="submit" value="Submit" />
+                </form>
+            </div>
+        </div>
+    </main>
+
+{% endblock %}
