@@ -29,8 +29,9 @@ ConnectDev is a web application designed to connect developers, enabling them to
    git clone https://github.com/RohanReddy2003/ConnectDev.git
    cd ConnectDev
 
-![Screenshot (1)](https://github.com/user-attachments/assets/8249c897-706d-4b08-9c01-56b136d1929c)
-![Screenshot (6)](https://github.com/user-attachments/assets/4da21367-5020-43b7-a59a-31a0d2069a49)
-![Screenshot (7)](https://github.com/user-attachments/assets/4d28d555-c8ec-4403-b8bd-d034379f4ba9)
-![Screenshot (8)](https://github.com/user-attachments/assets/655b449b-6aea-4049-a159-0633907f1909)
-![Screenshot (9)](https://github.com/user-attachments/assets/6d2b8c92-2477-4133-a945-bc5479c817c4)
+![Screenshot (1)](https://github.com/user-attachments/assets/4e7e8f72-02df-4e39-b1ac-8354ea0c034c)
+![Screenshot (6)](https://github.com/user-attachments/assets/bc3b23ea-2252-4ae7-b10b-187d31cbf343)
+![Screenshot (7)](https://github.com/user-attachments/assets/24f0a886-4fec-4ebd-8572-803225761db1)
+![Screenshot (8)](https://github.com/user-attachments/assets/5e162ddf-de85-4c48-aa91-8693cd59bad6)
+![Screenshot (9)](https://github.com/user-attachments/assets/5293b547-5eab-4208-896d-ceb4b2e901e9)
+
